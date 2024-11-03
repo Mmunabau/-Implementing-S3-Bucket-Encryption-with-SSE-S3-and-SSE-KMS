@@ -22,22 +22,22 @@ Secure data in an Amazon S3 bucket by setting up default encryption with SSE-S3 
 
 <p align="center">
 creat your s3 bucket: <br/>
- <img src="example.png" height="80%" width="80%" alt="key steps"/>
+ <img src="image/sc-1.png" height="80%" width="80%" alt="key steps"/>
 <br />
  
 <br />
 Add object to your s3 bucket for Encryption:  <br/>
-<img src="example1.png" height="80%" width="80%" alt="key steps"/>
+<img src="image/sc-3.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 <br />
 Set Up Default Encryption: Enable SSE-S3 as the default encryption for all objects in the S3 bucket <br/>
-<img src="example 2.png" height="80%" width="80%" alt="key steps"/>
+<img src="image/sc-4.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 <br />
 Override with SSE-KMS: Upload objects with SSE-KMS encryption for enhanced security by specifying the KMS key:  <br/>
-<img src="example3.png" height="80%" width="80%" alt="key steps"/>
+<img src="image/sc-5.png" height="80%" width="80%" alt="key steps"/>
 <br />
 <br />
 </p>
